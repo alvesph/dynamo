@@ -10,7 +10,11 @@
   "author": "Alves PH",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsdom": "^16.4.0",
+    "mongoose": "^5.11.18",
+    "unzip": "^0.1.11"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
